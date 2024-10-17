@@ -8,7 +8,7 @@ I’m currently learning how to implement a simple single pass compiler from the
 
 I am working on projects/challenges from Leetcode, Advent of Code, and CodingChallenges.fyi as well.
 
-How to reach me [github@adrianbrady.com](mailto:github@adrianbrady.com)
+How to reach me [ajbrady@wisc.edu](mailto:ajbrady@wisc.edu)
 
 Pronouns: he/him/his.
 
